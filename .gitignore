@@ -1,6 +1,7 @@
 .idea
 .pytest_cache
 __pycache__
+.DS_Store
 
 pages.__pycache__
 tests.__pycache__
